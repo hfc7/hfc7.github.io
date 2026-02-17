@@ -9,3 +9,4 @@ break here
 </style>
 
 <p class="highlight">This is highlighted text.</p>
+<p style= "red"> This text is red.</p>
