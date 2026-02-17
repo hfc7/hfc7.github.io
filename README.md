@@ -1,16 +1,9 @@
 # hfc7.github.io
+<h1>Heading for the Webpage</h1>
 Extra line of text here with a line<br>
 break here
-<style>
-  .highlight {
-    background: yellow;
-    padding: 4px;
-  }
-</style>
-
-<p class="highlight">This is highlighted text.</p>
-
-.color {
-  color: orange;
+<p>This paragraph will be colored blue.</p>
+p {
+  color: blue;
 }
-<p class="color">This text is orange.</p>
+
