@@ -9,9 +9,8 @@ break here
 </style>
 
 <p class="highlight">This is highlighted text.</p>
-<style>
-  .color {
-    text: red;
-    }
-  <p class= "color"> This text is red.</p>
-</style>
+
+.color {
+  color: orange;
+}
+<p class="color">This text is orange.</p>
